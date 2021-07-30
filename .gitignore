@@ -1,0 +1,4 @@
+*.zip
+input/
+output/
+mock_input/
